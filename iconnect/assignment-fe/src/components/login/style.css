@@ -1,0 +1,21 @@
+.sign-in{
+  height:100%;
+  display:flex;
+  align-items:center;
+}
+.container{
+  padding-bottom: 10px;
+}
+.toaster{
+  padding: 5px;
+    background: #545b52a6;
+    border-radius: 15px;
+    min-width: 30%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 22px;
+    width: max-content;
+}
